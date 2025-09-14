@@ -1,0 +1,8 @@
+---
+layout: post
+title: "My Experiment"
+categories: [research]      # or tags: [research]
+---
+
+
+I do some research!

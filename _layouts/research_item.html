@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<main class="page-content" aria-label="Content">
+  <div class="wrapper">
+    <h1>{{ page.title }}</h1>
+    {% if page.summary %}<p><strong>{{ page.summary }}</strong></p>{% endif %}
+    {{ content }}
+    {% if page.links %}
+      <hr>
+      <p>
+        {% if page.links.paper %}<a href="{{ page.links.paper }}">Paper</a>{% endif %}
+        {% if page.links.code %} • <a href="{{ page.links.code }}">Code</a>{% endif %}
+        {% if page.links.demo %} • <a href="{{ page.links.demo }}">Demo</a>{% endif %}
+      </p>
+    {% endif %}
+  </div>
+</main>
