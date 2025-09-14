@@ -11,7 +11,7 @@ Hi, I’m Matthew! I'm currently the Head of AI Research @ [StudyHallAI](https:/
 Previously, I completed an MPhil in Advanced Computer Science @ the University of Cambridge focused on Machine Learning. I was graciously supervised by [Soumya Banerjee](https://sites.google.com/site/neelsoumya/Home) working on the [Abstraction and Reasoning Corpus (ARC)](https://arcprize.org/arc-agi). 
 
 
-Before that, I did my undergrad in Computer Science @ the University of St Andrews. Around that time I was MLE Intern @ [Opera](https://www.opera.com/), where I headed the development of an edge-deployed auto-complete tool for a custom programming language. I also worked as a Research Assistant in AI and HCI at St Andrews.
+Before that, I did my undergrad in Computer Science @ the University of St Andrews. Around that time I was a Machine Learning Intern @ [Opera](https://www.opera.com/), where I headed the development of an edge-deployed auto-complete tool for a custom programming language. I also worked as a Research Assistant in AI and HCI at St Andrews.
 
 Always happy to connect with like-minded people so feel free to reach out :)
 
